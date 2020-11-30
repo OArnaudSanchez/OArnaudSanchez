@@ -1,4 +1,4 @@
-### Hi 👋, I'm Oseas!
+## Hi 👋, I'm Oseas!
 
 -  :books: I’m currently learning Typescript.
 
