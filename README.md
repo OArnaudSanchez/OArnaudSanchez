@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi 👋, I'm Oseas!
 
-<!--
-**OArnaudSanchez/OArnaudSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  :books: I’m currently learning Typescript.
 
-Here are some ideas to get you started:
+- 💬 Ask me about **.NET, JavaScript, Vuejs**  :raised_hands:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **oarnaudsanchez23@gmail.com or o.a.sanchez@outlook.com**
+
+- ⚡ Fun fact: **I love sports** :basketball: :runner: :bicyclist:
+
+<p>
+  <img src="https://img.shields.io/badge/.Net%20-5C2992.svg?&style=for-the-badge&logo=.net&logoColor=%234FC08D"/> 
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/typescript%20-007acc.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff"/>
+</p>
+
+---
+#### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OArnaudSanchez&layout=compact&title_color=0366D6)](https://github.com/OArnaudSanchez/github-readme-stats)
+
+
+#### Social
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oarnaudsanchez/)
