@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Oseas!
 
--  :books: I’m currently learning Typescript.
+-  :books: I’m currently learning React.Js.
 
 - 💬 Ask me about **.NET, JavaScript, Vuejs**  :raised_hands:.
 
