@@ -2,7 +2,7 @@
 
 -  :books: I’m currently learning React.Js.
 
-- 💬 Ask me about **.NET, JavaScript, Vuejs**  :raised_hands:.
+- 💬 Ask me about **.NET, JavaScript, Vuejs Or TypeScript**  :raised_hands:.
 
 - 📫 How to reach me: **oarnaudsanchez23@gmail.com or o.a.sanchez@outlook.com**
 
