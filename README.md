@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/.Net%20-5C2992.svg?&style=for-the-badge&logo=.net&logoColor=%234FC08D"/> 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/React%20-5C2992.svg?&style=for-the-badge&logo=react&logoColor=%00d8ff"/>
   <img src="https://img.shields.io/badge/typescript%20-007acc.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff"/>
 </p>
 
