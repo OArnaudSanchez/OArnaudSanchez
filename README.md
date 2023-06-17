@@ -24,5 +24,4 @@
 
 #### Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oarnaudsanchez/)
-[<img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=8492702154)
 
